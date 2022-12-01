@@ -1,0 +1,4 @@
+testCases\eBay\addToCat.class
+testCases\eBay\BrowserSetting.class
+testCases\eBay\WebdriverSettings.class
+testCases\eBay\newUser.class

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T03:18:01Z" name="Default suite" finished-at="2022-11-28T03:18:16Z" duration-ms="15235">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T03:18:01Z" name="Default test" finished-at="2022-11-28T03:18:16Z" duration-ms="15235">
+      <class name="testCases.eBay.addToCat">
+        <test-method signature="addToCart()[pri:0, instance:testCases.eBay.addToCat@5026735c]" started-at="2022-11-28T03:18:01Z" name="addToCart" finished-at="2022-11-28T03:18:16Z" duration-ms="15184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- testCases.eBay.addToCat -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
